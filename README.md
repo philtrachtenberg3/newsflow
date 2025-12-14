@@ -11,6 +11,12 @@ A modern, user-friendly news aggregator app that pulls articles from multiple so
 - **Responsive Design** — Works seamlessly on desktop, tablet, and mobile
 - **Article Details** — View source, publication date, image, and read full articles via direct links
 
+## Screenshots
+
+![NewsFlow App Preview](./screenshot.png)
+
+*The main news feed with category filters, search, and article cards displaying news from multiple sources*
+
 ## Getting Started
 
 ### Prerequisites
